@@ -1,6 +1,6 @@
 ﻿using System;
 
-Console.Write("Ingrese la calificación del estudiante (entre 0 y 100): ");
+Console.Write("Ingrese la calificación del estudiantee (entre 0 y 100): ");
 int calificacion = int.Parse(Console.ReadLine());
 
 switch (calificacion)
